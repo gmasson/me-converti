@@ -1,9 +1,10 @@
 # Me converti
 Se converteu para o lado Linux da força? 
-Então use o instalador dos melhores programas para seu sistema!
+Então use o instalador dos melhores programas para o seu novo sistema!
 
 ### Como Usar
 Primeiramente [faça o download](https://github.com/gmasson/me-converti/zipball/master) do programa, cujo também pode ser feito com o seguintes comando no terminal conforme o seu sistema.
+*** obs: Não se assuste com essas letrinhas brancas na tela preta, isso é muito simples e logo você se acostuma ;) *** 
 
 Se você usa Ubuntu, Xubuntu, Kubuntu, Edubuntu, Linux Mint ou Debian:
 
