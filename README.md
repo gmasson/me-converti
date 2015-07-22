@@ -11,7 +11,7 @@ Se você usa Ubuntu, Xubuntu, Kubuntu, Edubuntu, Linux Mint ou Debian:
 
 em seguida, dê permissão ao arquivo para que possa executa-lo corretamente
 
-    chmod -R 750 nuxtool.sh
+    chmod -R 755 deb.sh
 
 agora abra o arquivo, se preferir, abra-o pelo terminal usando o comando:
 
