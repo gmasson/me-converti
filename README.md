@@ -6,7 +6,7 @@ Então use o instalador dos melhores programas para o seu novo sistema!
 Primeiramente faça os seguintes comando no terminal do seu sistema.
 
 ***DETALHES:*** 
-* Terminal é um programa que você executa comandos para usar seu sistema [(Conheça o que é o Terminal clicando aqui)](http://wiki.ubuntu-br.org/Terminal)
+* [Conheça o que é o Terminal clicando aqui](http://wiki.ubuntu-br.org/Terminal)
 * Não se assuste com essas letrinhas brancas na tela preta, isso é muito simples e logo você se acostuma ;)
 
 Se você usa Ubuntu, Xubuntu, Kubuntu, Edubuntu, Linux Mint ou Debian
